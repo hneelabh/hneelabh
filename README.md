@@ -1,0 +1,10 @@
+- 👋 Hello there, I'm Harsh Neelabh.
+- 🏫 I'm a second year IT undergrad at Cochin University of Science and Technology (CUSAT).
+- 🌱 I’m currently learning **React JS**.
+- 🔭 I’m familiar with **C / C++** langauages.
+- 👯 I’m looking to collaborate on Web Development projects which use HTML, CSS, JS and React JS.
+- ⚒️ I've made an **Online Voting System** project which may operate for college level.
+- 📫 How to reach me: `www.linkedin.com/in/hneelabh`
+- 🦉 Languages: English, Hindi
+- 🚹 Pronouns: he/him
+- 😊 Thank you for visiting my github profile.
