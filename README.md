@@ -4,7 +4,7 @@
 - 🔭 I’m familiar with **C / C++** langauages.
 - 👯 I’m looking to collaborate on Web Development projects which use HTML, CSS, JS and React JS.
 - ⚒️ I've made an **Online Voting System** project which may operate for college level.
-- 📫 How to reach me: [(www.linkedin.com/in/hneelabh)]
+- 📫 How to reach me: (www.linkedin.com/in/hneelabh)
 - 🦉 Languages: English, Hindi
 - 🚹 Pronouns: he/him
 - 😊 Thank you for visiting my github profile.
