@@ -1,10 +1,10 @@
 - 👋 Hello there, I'm Harsh Neelabh.
-- 👨🏻‍🎓 I'm a pre-final year IT undergrad at Cochin University of Science and Technology (CUSAT).
-- 🌐 I’m familiar with **React JS**.
-- 👨🏻‍💻 I code in **C / C++** langauages.
-- 🕸️ I’m looking to collaborate on Web Development projects.
-- 🗳️ I've made an **Online Voting System** project which may operate for college level.
-- ☎️ How to reach me: www.linkedin.com/in/hneelabh hneelabh13@gmail.com
-- 🦉 Languages: English, Hindi
-- 🐱 Cats and football are love.
+- 👨🏻‍🎓 I'm a final year IT undergrad at Cochin University of Science and Technology (CUSAT).
+- 🌐 I’m familiar with **MERN Stack**.
+- 👨🏻‍💻 I code in **C** & **C++** and am familiar with **Java** & **Python**.
+- 🕸️ I’m looking to collaborate on Web Development projects involving MERN and FireBase.
+- 🗳️ I've made some full-stack projects whose codes are uploaded here on my GitHub account.
+- ☎️ Let's connect at : www.linkedin.com/in/hneelabh
+- 🦉 Proficient in English and Hindi languages
+- 🐱 Cats, gaming and football are love.
 - ✌️ Thank you for visiting my github profile.
