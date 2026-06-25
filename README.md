@@ -1,26 +1,28 @@
-### hey, i'm harsh 👋
+ ### Ola, I'm Harsh 👋
 
-it/embedded engineer @ [visteon](https://www.visteon.com) · cusat '25
-
----
-
-🔧 **currently into**
-- automotive embedded systems — CAN, BT, UART, all the fun acronyms
-- lately built a UART↔CAN bridge on a Raspberry Pi Pico + MCP2515, bridging a Realtek BT EVK to a Traveo 2 cluster
-- LVGL 2W cockpit demo running on MSPM0G3507, Rpi Pico, Pi 4B, TFT displays, LCD panels
-- basically, if it beeps, blinks, or talks over a bus — i'm interested
-
-🕸️ **used to do web dev**
-- full-stack stuff in college (react, node, the usual suspects)
-- slowly becoming the person who only knows `git blame` and stares at oscilloscopes now
+Software Engineer @ [Visteon](https://www.visteon.com) · CUSAT '25
 
 ---
 
-🛠️ **things i've touched**
-`C` `Python` `Embedded C` `FreeRTOS` `CAN` `Bluetooth` `LVGL` `SPI/UART/I2C` `JavaScript` `React`
+🔧 **Currently into**
+- automotive embedded systems - CAN, SPI, UART, all the fun acronyms
+- lately built a UART → CAN bridge on a Raspberry Pi Pico + MCP2515, bridging a Realtek BT EVK to a Traveo 2 cluster
+- LVGL 2W cockpit demo running on various hardwares - TI's MSPM33, RPi Pico and 4B for TFT displays and LCD panels
+- basically, either they beep, blink, or talk over a bus and have a maze of wires
+
+🕸️ **Used to do web dev**
+- Full-stack stuff in college (React, Node, the usual suspects)
+- Did some cool projects; two of them are: [Chargeit!](https://charge-i-ts.vercel.app/) and [PackNChew](https://packnchew.netlify.app/)
+- Slowly becoming the person who only knows low-level programming and hates working over frameworks (not really)
 
 ---
 
-📍 cochin → trivandrum  
-🔗 [linkedin](https://www.linkedin.com/in/hneelabh) (mostly a ghost there tbh)  
+🛠️ **Things I've touched**
+`C` `C++` `Linux` `FreeRTOS` `Embedded Systems` `CAN/SPI/UART/I2C` `JavaScript` `React` `SQL`
+
+---
+
+📍 Kochi → Trivandrum  
+🔗 [Portfolio](https://hneelabh.github.io/Portfolio/) (more projects there)
+🔗 [linkedin](https://www.linkedin.com/in/hneelabh) (mostly a ghost there)  
 🐱 meow
