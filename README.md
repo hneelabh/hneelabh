@@ -1,9 +1,26 @@
-- 👋 Hello there, I'm Harsh Neelabh.
-- 👨🏻‍🎓 I'm a 2025 IT graduate from Cochin University of Science and Technology (CUSAT).
-- 🧑‍💼 Working at Visteon Corporation as a Software Engineer.
-- 🌐 I did projects in **Web Development** in college years, and currently working mostly in **Embedded Systems**.
-- 🗳️ I've made some full-stack projects abd some PoCs used in automotive inductry, whose codes are uploaded here on my GitHub account.
-- ☎️ Linkedin (mostly inactive) : www.linkedin.com/in/hneelabh
-- 🦉 Proficient in English and Hindi languages.
-- ✌️ Thank you for visiting my github profile.
-- 🐱 Meow
+### hey, i'm harsh 👋
+
+it/embedded engineer @ [visteon](https://www.visteon.com) · cusat '25
+
+---
+
+🔧 **currently into**
+- automotive embedded systems — CAN, BT, UART, all the fun acronyms
+- lately built a UART↔CAN bridge on a Raspberry Pi Pico + MCP2515, bridging a Realtek BT EVK to a Traveo 2 cluster
+- LVGL 2W cockpit demo running on MSPM0G3507, Rpi Pico, Pi 4B, TFT displays, LCD panels
+- basically, if it beeps, blinks, or talks over a bus — i'm interested
+
+🕸️ **used to do web dev**
+- full-stack stuff in college (react, node, the usual suspects)
+- slowly becoming the person who only knows `git blame` and stares at oscilloscopes now
+
+---
+
+🛠️ **things i've touched**
+`C` `Python` `Embedded C` `FreeRTOS` `CAN` `Bluetooth` `LVGL` `SPI/UART/I2C` `JavaScript` `React`
+
+---
+
+📍 cochin → trivandrum  
+🔗 [linkedin](https://www.linkedin.com/in/hneelabh) (mostly a ghost there tbh)  
+🐱 meow
